@@ -16,6 +16,7 @@
 	- 删除node_modules
 	- npm install
 - gulp dev
+- 图片压缩遇到问题 npm install node-gyp , npm rebuild
 
 ## 后续
 - 集成tailwindcss
